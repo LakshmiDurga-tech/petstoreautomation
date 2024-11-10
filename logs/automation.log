@@ -1,0 +1,10 @@
+14:06:15.565 [main] INFO  api.test.UserTests - update
+14:06:16.778 [main] INFO  api.test.UserTests - deleted
+17:22:34.217 [main] INFO  api.test.UserTests - update
+17:22:35.785 [main] INFO  api.test.UserTests - deleted
+17:39:45.455 [main] INFO  api.test.UserTests - update
+17:39:46.740 [main] INFO  api.test.UserTests - deleted
+18:28:38.663 [main] INFO  api.test.UserTests - update
+18:28:40.129 [main] INFO  api.test.UserTests - deleted
+18:32:38.817 [main] INFO  api.test.UserTests - update
+18:32:40.411 [main] INFO  api.test.UserTests - deleted
